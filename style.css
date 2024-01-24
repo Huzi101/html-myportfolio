@@ -1,0 +1,57 @@
+.navbar-nav {
+    margin-left: 30%;
+    margin-right: 70%;
+}
+.nav-item {
+    margin-inline-end: 10%;
+    background-color: #434343;
+    border-radius: 10px;
+}
+.nav-link {
+    color: white;
+}
+.grad1 {
+    background-image: linear-gradient(white, #6284FF, #FF0000);
+}
+.grad2 {
+    background-image: linear-gradient(to left, #44a08d, #093637);
+    padding: 20px;
+}
+#self-portrait {
+    margin-left: 150px;
+    border: 10px solid black;
+    border-radius: 20px;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Salsa', cursive;
+}
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Salsa', cursive;
+}
+#first-section p {
+    text-align: justify;
+}
+#second-section {
+    padding: 20px;
+    background-color: black;
+}
+#third-section {
+    padding: 20px;
+}
+#third-section svg {
+    padding: 10px;
+}
+#third-section h2 {
+    text-align: center;
+}
+.grad3 {
+    background-image: linear-gradient(to right, #c31432, #240b36);
+    border-radius: 20px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+#first-achievement > p {
+    text-align: justify;   
+}
